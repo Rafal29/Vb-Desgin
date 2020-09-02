@@ -1,0 +1,14 @@
+C:\Users\dell\Downloads\VB.NET-master (2)\VB.NET-master\coures\bin\Debug\coures.exe.config
+C:\Users\dell\Downloads\VB.NET-master (2)\VB.NET-master\coures\bin\Debug\coures.exe
+C:\Users\dell\Downloads\VB.NET-master (2)\VB.NET-master\coures\bin\Debug\coures.pdb
+C:\Users\dell\Downloads\VB.NET-master (2)\VB.NET-master\coures\bin\Debug\coures.xml
+C:\Users\dell\Downloads\VB.NET-master (2)\VB.NET-master\coures\obj\Debug\coures.vbprojResolveAssemblyReference.cache
+C:\Users\dell\Downloads\VB.NET-master (2)\VB.NET-master\coures\obj\Debug\coures.Form1.resources
+C:\Users\dell\Downloads\VB.NET-master (2)\VB.NET-master\coures\obj\Debug\coures.Form3.resources
+C:\Users\dell\Downloads\VB.NET-master (2)\VB.NET-master\coures\obj\Debug\coures.Resources.resources
+C:\Users\dell\Downloads\VB.NET-master (2)\VB.NET-master\coures\obj\Debug\coures.vbproj.GenerateResource.Cache
+C:\Users\dell\Downloads\VB.NET-master (2)\VB.NET-master\coures\obj\Debug\coures.exe
+C:\Users\dell\Downloads\VB.NET-master (2)\VB.NET-master\coures\obj\Debug\coures.xml
+C:\Users\dell\Downloads\VB.NET-master (2)\VB.NET-master\coures\obj\Debug\coures.pdb
+C:\Users\dell\Downloads\VB.NET-master (2)\VB.NET-master\coures\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\dell\Downloads\VB.NET-master (2)\VB.NET-master\coures\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
